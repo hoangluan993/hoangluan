@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mp3Zing</string>
+   <string name="title_section1">Đăng nhập</string>
+    <string name="title_section2">My Music</string>
+    <string name="title_section3">ZING MP3</string>
+    <string name="title_section4">Nhạc HOT</string>
+    <string name="title_section5">Album</string>
+    <string name="title_section6">Video Clip</string>
+    <string name="title_section7">Nghệ Sĩ</string>
+    <string name="title_section8">Bảng Xếp Hạng</string>
+    <string name="title_section9">Top 100</string>
+    <string name="title_section10">Zing Music Awards</string>
+    <string name="title_section11">CÔNG CỤ</string>
+    <string name="title_section12">LyricsAnywhere</string>
+    <string name="title_section13">Restore</string>
+    <string name="title_section14">Thông báo</string>
+    <string name="title_section15">Zing VIP</string>
+    <string name="title_section16">Ứng Dụng Liên Quan</string>
+    <string name="title_section17">Cài Đặt</string>
+    <string name="title_section18">Đóng Ứng Dụng</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

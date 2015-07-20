@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="dontclick">#272727</color>
+    <color name="click">#80272727</color>
+</resources>
